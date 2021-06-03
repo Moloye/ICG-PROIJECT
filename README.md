@@ -142,7 +142,7 @@ START
       GET ItemName=array(Shampoo, ),(Fringes),(Bangs)
            DOWHILE
 
-                IF products are >= 35 THEN
+                IF products are>= 35 THEN
 
                          OUTPUT("PRODUCT SHOULD BE TRANSPORTED TO DESTINATION")
                    ELSE 
