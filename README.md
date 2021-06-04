@@ -17,7 +17,6 @@ GET ItemName ItemName(Shampoo OR Bangs OR Fringes)
            ENDIF 
        END
 
-
 START
 
    PROMPT payment 
